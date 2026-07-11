@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "네이버 뉴스 댓글 자동삭제",
+  "version": "1.0.1",
+  "description": "네이버 뉴스의 '내 댓글' 창에서 본인이 작성한 댓글을 순차적으로 자동 삭제합니다.",
+  "icons": {
+    "16":  "icons/icon16.png",
+    "48":  "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "permissions": ["scripting", "activeTab"],
+  "host_permissions": [
+    "*://*.naver.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "네이버 뉴스 댓글 자동삭제",
+    "default_icon": {
+      "16":  "icons/icon16.png",
+      "48":  "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  }
+}
