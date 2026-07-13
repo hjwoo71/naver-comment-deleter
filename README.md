@@ -2,6 +2,8 @@
 
 네이버 뉴스의 "내 댓글 모음" 창에 표시되는 **본인 댓글을 순차적으로 자동 삭제**해주는 Chrome 확장 프로그램입니다.
 
+**[⬇️ Chrome 웹 스토어에서 설치](https://chromewebstore.google.com/detail/네이버-뉴스-댓글-자동삭제/bmaneghlfoaoicllepdienidpgjcndck)**
+
 ## 사용법
 
 1. 네이버 뉴스 기사 URL 뒤에 `#user_comment` 를 붙여서 접속
@@ -13,10 +15,13 @@
 
 ## 설치
 
-> **Chrome 웹 스토어 심사가 진행 중입니다.** 승인되면 여기에 원클릭 설치 링크가 추가됩니다.
-> 그 전까지는 아래 **개발자 모드 로드** 방식으로 사용할 수 있습니다.
+### Chrome 웹 스토어 (권장)
 
-### 개발자 모드로 로드
+👉 **[Chrome 웹 스토어에서 설치하기](https://chromewebstore.google.com/detail/네이버-뉴스-댓글-자동삭제/bmaneghlfoaoicllepdienidpgjcndck)**
+
+스토어 페이지에서 **[Chrome에 추가]** 버튼만 누르면 설치됩니다.
+
+### 개발자 모드로 로드 (수동)
 
 1. 이 저장소의 [Releases](https://github.com/hjwoo71/naver-comment-deleter/releases)에서 최신 zip 다운로드
 2. zip 압축 해제
